@@ -12,3 +12,10 @@ Debouncing with 200ms:
 
 - if difference between 2 keystrokes is < 200ms no api call will be made
 - if difference between 2 keystrokes is >200ms api call for each keystroke will be made
+
+Nested Comments-
+
+- <CommentContiner/> -container to render commentList
+- <CommentList/> -renders comment + it replies recursively
+-     <Comment/> -single comment
+  recursion of CommentList component done to recursively show comment replies
