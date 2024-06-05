@@ -6,3 +6,70 @@ export const YOUTUBE_VIDEO_API =
 
 export const YOUTUBE_SEARCH_API =
   "http://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q=";
+
+export const COMMENT_DATA = [
+  {
+    name: "viraj padale",
+    message: "lorem ipsum dolor sit amet, consectetur adipiscing",
+    replies: [
+      {
+        name: "viraj padale",
+        message: "lorem ipsum dolor sit amet, consectetur adipiscing",
+        replies: [],
+      },
+      {
+        name: "viraj padale",
+        message: "lorem ipsum dolor sit amet, consectetur adipiscing",
+        replies: [],
+      },
+      {
+        name: "viraj padale",
+        message: "lorem ipsum dolor sit amet, consectetur adipiscing",
+        replies: [],
+      },
+    ],
+  },
+  {
+    name: "viraj padale",
+    message: "lorem ipsum dolor sit amet, consectetur adipiscing",
+    replies: [
+      {
+        name: "viraj padale",
+        message: "lorem ipsum dolor sit amet, consectetur adipiscing",
+        replies: [],
+      },
+      {
+        name: "viraj padale",
+        message: "lorem ipsum dolor sit amet, consectetur adipiscing",
+        replies: [],
+      },
+      {
+        name: "viraj padale",
+        message: "lorem ipsum dolor sit amet, consectetur adipiscing",
+        replies: [],
+      },
+    ],
+  },
+  {
+    name: "viraj padale",
+    message: "lorem ipsum dolor sit amet, consectetur adipiscing",
+    replies: [
+      {
+        name: "viraj padale",
+        message: "lorem ipsum dolor sit amet, consectetur adipiscing",
+        replies: [],
+      },
+    ],
+  },
+  {
+    name: "viraj padale",
+    message: "lorem ipsum dolor sit amet, consectetur adipiscing",
+    replies: [
+      {
+        name: "viraj padale",
+        message: "lorem ipsum dolor sit amet, consectetur adipiscing",
+        replies: [],
+      },
+    ],
+  },
+];
