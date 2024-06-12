@@ -18,4 +18,12 @@ Nested Comments-
 - <CommentContiner/> -container to render commentList
 - <CommentList/> -renders comment + it replies recursively
 -     <Comment/> -single comment
+
   recursion of CommentList component done to recursively show comment replies
+
+- live chat
+- challenges
+- fetching real time data(data layer challenge)
+  - web sockets -real time two way communication
+  - API polling - API call after a certain interval(ex 25 sec)
+- updating our UI such that the page does not bloats/freezed(UI layer challenge)
